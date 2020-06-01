@@ -6,3 +6,9 @@
 
 ## Git
 1. [Workflow](https://gist.github.com/blackfalcon/8428401)
+
+
+
+
+## Printer (Epson-XP3100)
+https://askubuntu.com/questions/771427/how-to-install-epson-printer-drivers-on-ubuntu-16-04
