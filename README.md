@@ -6,8 +6,7 @@
 2. [Placeholder]
 
 ## C++
-1. [Python to C++](https://cs.slu.edu/~chambers/spring19/datastructures/python2cpp.pdf)
-2. [Python C++ compare](https://realpython.com/python-vs-cpp/)
+1. [Python C++ compare](https://realpython.com/python-vs-cpp/)
 
 ## Linux
 1. [Conda Docs](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html#managing-python)
