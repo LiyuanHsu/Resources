@@ -1,7 +1,9 @@
 # Resources
 
 ## Python
-1. [Object-Oriented Programming in Python, Michael H. Goldwasser](https://cs.slu.edu/~goldwasser/oopp/download/oopp.pdf)
+1. [Object-Oriented Programming in Python, Michael H. Goldwasser](https://cs.slu.edu/~goldwasser/oopp/download/oopp.pdf)  
+   [Python to C++](https://cs.slu.edu/~chambers/spring19/datastructures/python2cpp.pdf)
+2. [Placeholder]
 
 ## C++
 1. [Python to C++](https://cs.slu.edu/~chambers/spring19/datastructures/python2cpp.pdf)
