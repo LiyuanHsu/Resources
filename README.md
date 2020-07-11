@@ -26,7 +26,7 @@ find <file_directory> -name \*.<file_extension> -exec sed -i "s/<old_string>/<ne
 
 
 ## Printer (Epson-XP3100)
-1. [How to install on Ubuntu](https://askubuntu.com/questions/771427/how-to-install-epson-printer-drivers-on-ubuntu-16-04)
+1. [Epson Linux Driver](http://download.ebz.epson.net/dsc/search/01/search/searchModule)
 
 ## Research Proposal
 1. [Eidinburgh University](https://www.ed.ac.uk/files/imports/fileManager/HowToWriteProposal090415.pdf)
