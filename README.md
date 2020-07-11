@@ -22,6 +22,9 @@ find <file_directory> -name \*.<file_extension> -exec sed -i "s/<old_string>/<ne
 ## Git
 1. [Workflow](https://gist.github.com/blackfalcon/8428401)
 
+## IDE
+1. [Visual Studio Code Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
+
 
 
 
