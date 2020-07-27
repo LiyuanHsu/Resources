@@ -19,6 +19,14 @@
 ```
 find <file_directory> -name \*.<file_extension> -exec sed -i "s/<old_string>/<new_string>/g" {} \;
 ```
+2. Render video
+```
+melt <input_final_name, e.g.corl2020_final.kdenlive> -consumer avformat:<output_file_name, e.g.output.mp4> vcodec=libx264 <bitrate, e.g.b=10000k>
+```
+3. Compress video
+```
+ffmpeg -i <input_file_name> -b <bitrate, e.g.300k> <outpu_file_name>
+```
 
 
 
