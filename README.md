@@ -27,6 +27,19 @@ melt <input_final_name, e.g.corl2020_final.kdenlive> -consumer avformat:<output_
 ```
 ffmpeg -i <input_file_name> -b <bitrate, e.g.300k> <outpu_file_name>
 ```
+4. Show video streams
+```
+ffmpeg -i <file_name>
+```
+5. Copy selected streams 
+```
+Stream #0.0: Video: ...
+Stream #0.1: Audio: ...
+Stream #0.2: Audio
+```
+```
+ffmpeg -i <file_name> -map 0:0 -map 0:2 -acodec copy -vcodec copy <new_file_name>
+```
 
 
 
