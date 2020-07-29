@@ -15,6 +15,8 @@
 1. [Conda Docs](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html#managing-python)
 
 ## Command-line
+### Books
+1. [THE LINUX COMMAND LINE, WILLIAM SHOTTS](https://wiki.lib.sun.ac.za/images/c/ca/TLCL-13.07.pdf)
 ### File edit
 1. Replace <old_string> to <new_string> in multiple files with <file_extension> in <file_directory>
 ```
