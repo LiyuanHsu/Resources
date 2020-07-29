@@ -2,6 +2,7 @@
 
 ## Robotics
 1. [Robotics Knowledgebase](https://roboticsknowledgebase.com/)
+2. [RL Sutton & Barto](http://www.incompleteideas.net/book/the-book-2nd.html)
 
 ## Python
 1. [Object-Oriented Programming in Python, Michael H. Goldwasser](https://cs.slu.edu/~goldwasser/oopp/download/oopp.pdf)  
@@ -10,6 +11,7 @@
 
 ## C++
 1. [Python C++ compare](https://realpython.com/python-vs-cpp/)
+2. [Competitive programming books](https://cses.fi/book/index.php)
 
 ## Linux
 1. [Conda Docs](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html#managing-python)
