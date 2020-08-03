@@ -3,7 +3,8 @@
 ## Robotics
 1. [Robotics Knowledgebase](https://roboticsknowledgebase.com/)
 2. [RL Sutton & Barto](http://www.incompleteideas.net/book/the-book-2nd.html)
-
+3. [Programming for Robotics - ROS, ETH](https://rsl.ethz.ch/education-students/lectures/ros.html)
+ 
 ## Python
 1. [Object-Oriented Programming in Python, Michael H. Goldwasser](https://cs.slu.edu/~goldwasser/oopp/download/oopp.pdf)  
    [Python to C++](https://cs.slu.edu/~chambers/spring19/datastructures/python2cpp.pdf)
