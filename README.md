@@ -4,6 +4,8 @@
 1. [Robotics Knowledgebase](https://roboticsknowledgebase.com/)
 2. [RL Sutton & Barto](http://www.incompleteideas.net/book/the-book-2nd.html)
 3. [Programming for Robotics - ROS, ETH](https://rsl.ethz.ch/education-students/lectures/ros.html)
+4. [How to Build a Mobile Robot Platform, Alexander Savinkin
+](https://medium.com/geekforge-academy/how-to-build-a-mobile-robot-platform-2f838ffe84eb)
  
 ## Python
 1. [Object-Oriented Programming in Python, Michael H. Goldwasser](https://cs.slu.edu/~goldwasser/oopp/download/oopp.pdf)  
