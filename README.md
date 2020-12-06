@@ -10,7 +10,7 @@
 ## Python
 1. [Object-Oriented Programming in Python, Michael H. Goldwasser](https://cs.slu.edu/~goldwasser/oopp/download/oopp.pdf)  
    [Python to C++](https://cs.slu.edu/~chambers/spring19/datastructures/python2cpp.pdf)
-2. [Placeholder]
+2. [Anti-pattern](https://docs.quantifiedcode.com/python-anti-patterns/index.html)
 
 ## C++
 1. [Python C++ compare](https://realpython.com/python-vs-cpp/)
