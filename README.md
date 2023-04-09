@@ -60,3 +60,6 @@ ffmpeg -i <file_name> -map 0:0 -map 0:2 -acodec copy -vcodec copy <new_file_name
 
 ## Research Proposal
 1. [Eidinburgh University](https://www.ed.ac.uk/files/imports/fileManager/HowToWriteProposal090415.pdf)
+
+## Apple
+1. [Airpods bluetooth connection](https://cri.dev/posts/2021-01-04-Pair-AirPods-with-Linux-Ubuntu/)
