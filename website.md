@@ -3,3 +3,6 @@
 
 ## Electric Car
 [Die sind beliebt: Die meistverkauften E-Autos 2023](https://www.autoscout24.de/informieren/ratgeber/beste-autos/beliebteste-e-autos/)
+
+## Others 
+[Remove all Youtube videos from Watch Later](https://filmora.wondershare.com/youtube/clear-watch-later-on-youtube.html)
